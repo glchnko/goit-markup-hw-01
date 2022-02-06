@@ -1,3 +1,3 @@
 # goit-markup-hw-01
 
-Home Work
+[GitHub Pages](https://glchnko.github.io/goit-markup-hw-01/)
